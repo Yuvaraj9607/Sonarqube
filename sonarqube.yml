@@ -1,4 +1,4 @@
-version: "3"
+version: "3" #Using docker compose to UP and run the container
 
 services:
   sonarqube:
